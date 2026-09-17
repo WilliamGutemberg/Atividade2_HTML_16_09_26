@@ -11,7 +11,7 @@ O projeto também possui páginas de login, cadastro, agendamento de visita, sug
 
 Como abrir:
 
-Para acessar o projeto, abra o arquivo "index.html" em um navegador.
+Para acessar o projeto, abra o arquivo "html/index.html" em um navegador.
 
 Também é possível utilizar a extensão Live Server no Visual Studio Code.
 
